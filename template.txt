@@ -1,0 +1,6 @@
+Hallo ${PERSON_NAME},
+
+alles gute zum Geburtstag
+
+Mit Freundlichen Grüssen
+${OWN_NAME}
