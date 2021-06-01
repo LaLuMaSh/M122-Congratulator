@@ -1,9 +1,9 @@
 {
   "mail-mail": "pythontest122@gmail.com",
   "mail-password": "NA0iGKSt1QzQI9U",
-  "template-file": "template.txt",
+  "template-file": "C:\\Users\\taakesh1\\PycharmProjects\\M122-Congratulator\\template.txt",
   "subject-line": "Alles Gute",
   "sender": "Luca",
-  "file-path": "C:\\projects\\tbz\\M122-Congratulator\\Birthdates.csv",
+  "file-path": "C:\\Users\\taakesh1\\PycharmProjects\\M122-Congratulator\\Birthdates.csv",
   "logfile": "log.log"
 }
